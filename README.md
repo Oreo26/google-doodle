@@ -1,6 +1,8 @@
 # My Topic Google Doodle
 
-50+ words about your Google Doodle.
+Among Us is an online multiplayer game that fills a lobby with 4-10 players. You can either work as a crewmate or imposter, either way your goal is to declare Victory! Placed as a crewmate you are to hold your spaceship together with your other crewmates and complete your tasks to win. Placed as an imposter your goal is to blend in and eliminate the crew before the ship reaches home.
+
+Source: https://innersloth.com/gameAmongUs.php
 
 ## Collage
 

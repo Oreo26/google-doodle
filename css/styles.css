@@ -1,14 +1,3 @@
-/* My Awesome Styles */
-
-/* Diagnostic Styling 
-  * Change Background Color
-  * Outline Elements
-*/
-
-* {
-  outline: 1px solid black;
-}
-
 /* Doodle Stage */
 #stage {
   height: 300px;
@@ -33,10 +22,12 @@
   margin: 0px;
 }
 
-.Redicon:hover {
-transform: rotate(360deg);
-transition: all 2s;
-translateY(300px);
+/* Letter O*/
+.lettero {
+  position: absolute;
+  bottom: 90px;
+  left: 190px;
+  margin: 0px;
 }
 
 /* Orange Imposter SVG*/
@@ -45,6 +36,12 @@ translateY(300px);
   bottom: 80px;
   left: 280px;
   margin: 0px;
+}
+
+#Orangeimposter:hover {
+  transform: rotate(360deg);
+  transition: all 2s;
+  translateY(300px);
 }
 
 /* Lower case g SVG*/
@@ -69,4 +66,46 @@ translateY(300px);
   bottom: 90px;
   left: 570px;
   margin: 0px;
+}
+
+/* star1 SVG*/
+.star1 {
+  position: absolute;
+  bottom: 210px;
+  left: 570px;
+  margin: 0px;
+}
+
+#starone:hover {
+  transform: rotate(360deg);
+  transition: all 2s;
+  translateY(300px);
+}
+
+/* star2 SVG*/
+.star2 {
+  position: absolute;
+  bottom: 40px;
+  left: 200px;
+  margin: 0px;
+}
+
+#startwo:hover {
+  transform: rotate(360deg);
+  transition: all 2s;
+  translateY(300px);
+}
+
+/* star3 SVG*/
+.star3 {
+  position: absolute;
+  bottom: 230px;
+  left: 45px;
+  margin: 0px;
+}
+
+#starthree:hover {
+  transform: rotate(360deg);
+  transition: all 2s;
+  translateY(300px);
 }

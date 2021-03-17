@@ -50,3 +50,11 @@ translateY(300px);
   left: 380px;
   margin: 0px;
 }
+
+/* lowercase L SVG*/
+.letterl {
+  position: absolute;
+  bottom: 90px;
+  left: 500px;
+  margin: 0px;
+}

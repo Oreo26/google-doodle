@@ -43,3 +43,10 @@ translateY(300px);
   margin: 0px;
 }
 
+/* Lower case g SVG*/
+#Secondg {
+  position: absolute;
+  bottom: 20px;
+  left: 380px;
+  margin: 0px;
+}

@@ -15,6 +15,7 @@
   width: 700px;
   position: relative;
 }
+
 /* Frist G*/
 .FirstG {
   position: absolute;
@@ -22,6 +23,8 @@
   left: 50px;
   margin: 0px;
 }
+
+
 /* Red Imposter*/
 .Redicon {
   position: absolute;
@@ -29,6 +32,7 @@
   left: 180px;
   margin: 0px;
 }
+
 .Redicon:hover {
 transform: rotate(360deg);
 transition: all 2s;

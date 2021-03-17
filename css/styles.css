@@ -29,3 +29,9 @@
   left: 180px;
   margin: 0px;
 }
+
+.Redicon:hover {
+transform: rotate(360deg);
+transition: all 2s;
+translateY(300px);
+}

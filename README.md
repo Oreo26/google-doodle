@@ -11,5 +11,5 @@ Source: https://innersloth.com/gameAmongUs.php
 ## Resources
 [Favicon Generator](https://realfavicongenerator.net)
 
-[Green Sock] (https://greensock.com/docs/v3/GSAP)
+[Green Sock](https://greensock.com/docs/v3/GSAP)
 

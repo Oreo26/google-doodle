@@ -13,5 +13,5 @@ Source: https://innersloth.com/gameAmongUs.php
 
 [Green Sock](https://greensock.com/docs/v3/GSAP)
 
-[Colin P. Manikoth]
+Colin P. Manikoth
 

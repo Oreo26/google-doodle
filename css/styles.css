@@ -44,7 +44,7 @@ translateY(300px);
 }
 
 /* Lower case g SVG*/
-#Secondg {
+.Secondg {
   position: absolute;
   bottom: 20px;
   left: 380px;
